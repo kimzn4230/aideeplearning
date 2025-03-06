@@ -1,4 +1,5 @@
 # aideeplearning
-test test/n
-★item1/n
+test test
+
+★item1
 ★item2
